@@ -1,2 +1,1 @@
-## Raksha
-Opensource wearable for health monitoring
+Wearable Health Monitoring System
